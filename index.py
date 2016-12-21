@@ -4,3 +4,6 @@ def calculate_numbers(*numbers):
         sum += num
 
     return sum
+
+def add():
+    pass
